@@ -1,0 +1,38 @@
+[
+    {
+        "Numero": "003",
+        "Nombre": "Venusaur",
+        "Tipo": "Hierva",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+        "Ataque": "Látigo Cepa",
+        "Color" : "Greeen"
+    },  
+    {
+        "Numero": "252",
+        "Nombre": "Treecko",
+        "Tipo": "Hierva",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png",
+        "Ataque": "Bomba Germen"
+    },
+    {
+        "Numero": "388",
+        "Nombre": "Grotle",
+        "Tipo": "Hierva",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/388.png",
+        "Ataque": "Hoja Afilada"
+    }, 
+    {
+        "Numero": "470",
+        "Nombre": "Leafeon",
+        "Tipo": "Hierva",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/470.png",
+        "Ataque": "Hoja Aguda"
+    },
+    {
+        "Numero": "810",
+        "Nombre": "Grookey",
+        "Tipo": "Hierva",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/810.png",
+        "Ataque": "Hoja Mágica"
+    }
+]

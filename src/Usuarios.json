@@ -1,0 +1,17 @@
+[
+    {
+        "Usuario": "IPC1B",
+        "Password": "Prueba123",
+        "Imagen" : "https://images.wikidexcdn.net/mwuploads/esssbwiki/thumb/c/c0/latest/20210725170725/Entrenador_Pok%C3%A9mon_RojoFuego_y_VerdeHoja.png/1200px-Entrenador_Pok%C3%A9mon_RojoFuego_y_VerdeHoja.png"
+    },
+    {
+        "Usuario": "IPC1F",
+        "Password": "Prueba456",
+        "Imagen" : "https://cdn.atomix.vg/wp-content/uploads/2016/11/entrenador-nino.png"
+    },
+    {
+        "Usuario": "David",
+        "Password": "Prueba789",
+        "Imagen" :"https://e6.pngbyte.com/pngpicture/351088/png-pokemon-trainer-png-Pok%C3%A9mon-Lucas_thumbnail.png"
+    }
+]

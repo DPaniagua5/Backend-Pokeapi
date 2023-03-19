@@ -1,0 +1,37 @@
+[
+    {
+        "Numero": "006",
+        "Nombre": "Charizard",
+        "Tipo": "Fuego",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+        "Ataque": "Envite ígneo"
+    },
+    {
+        "Numero": "038",
+        "Nombre": "Ninetales",
+        "Tipo": "Fuego",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+        "Ataque": "Giro Fuego"
+    },
+    {
+        "Numero": "136",
+        "Nombre": "Flareon",
+        "Tipo": "Fuego",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+        "Ataque": "Colmillo ígneo"
+    },  
+    {
+        "Numero": "390",
+        "Nombre": "Chimchar",
+        "Tipo": "Fuego",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/390.png",
+        "Ataque": "Puño Fuego"
+    },
+    {
+        "Numero": "813",
+        "Nombre": "Scorbunny",
+        "Tipo": "Fuego",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/813.png",
+        "Ataque": "Llamarada"
+    }
+]

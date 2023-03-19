@@ -1,0 +1,110 @@
+[ 
+    {
+        "Numero": "003",
+        "Nombre": "Venusaur",
+        "Tipo": "Hierva",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+        "Ataque": "Látigo Cepa",
+        "Color" : "Greeen"
+    },
+    {
+        "Numero": "006",
+        "Nombre": "Charizard",
+        "Tipo": "Fuego",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+        "Ataque": "Envite ígneo"
+    },
+    {
+        "Numero": "009",
+        "Nombre": "Blastoide",
+        "Tipo": "Agua",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+        "Ataque": "Cabezaso"
+    },
+      
+    {
+        "Numero": "038",
+        "Nombre": "Ninetales",
+        "Tipo": "Fuego",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+        "Ataque": "Giro Fuego"
+    },
+    {
+        "Numero": "054",
+        "Nombre": "Psyduck",
+        "Tipo": "Agua",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+        "Ataque": "Cabezaso Zen"
+    },
+    {
+        "Numero": "129",
+        "Nombre": "Magikarp",
+        "Tipo": "Agua",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+        "Ataque": "Salpicadura"
+    },
+    {
+        "Numero": "134",
+        "Nombre": "Vaporeon",
+        "Tipo": "Agua",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+        "Ataque": "Ronquido"
+    },
+     
+    {
+        "Numero": "136",
+        "Nombre": "Flareon",
+        "Tipo": "Fuego",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+        "Ataque": "Colmillo ígneo"
+    },       
+    {
+        "Numero": "252",
+        "Nombre": "Treecko",
+        "Tipo": "Hierva",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png",
+        "Ataque": "Bomba Germen"
+    },
+    {
+        "Numero": "388",
+        "Nombre": "Grotle",
+        "Tipo": "Hierva",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/388.png",
+        "Ataque": "Hoja Afilada"
+    },    
+    {
+        "Numero": "390",
+        "Nombre": "Chimchar",
+        "Tipo": "Fuego",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/390.png",
+        "Ataque": "Puño Fuego"
+    },
+    {
+        "Numero": "470",
+        "Nombre": "Leafeon",
+        "Tipo": "Hierva",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/470.png",
+        "Ataque": "Hoja Aguda"
+    },
+    {
+        "Numero": "501",
+        "Nombre": "Oshawott",
+        "Tipo": "Agua",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png",
+        "Ataque": "Hidropulso"
+    },
+    {
+        "Numero": "810",
+        "Nombre": "Grookey",
+        "Tipo": "Hierva",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/810.png",
+        "Ataque": "Hoja Mágica"
+    },    
+    {
+        "Numero": "813",
+        "Nombre": "Scorbunny",
+        "Tipo": "Fuego",
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/813.png",
+        "Ataque": "Llamarada"
+    }
+]
