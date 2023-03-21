@@ -33,6 +33,11 @@ app.post('/login', (req, res)=>{
     }  
 })
 
+app.get('/',(req,res)=>{
+    let pokedex = require('./Pokedex.json');
+    res.send(pokedex);
+});
+
 //Pokemones de la pokedex
 app.get('/pokedex',(req,res)=>{
     let pokedex = require('./Pokedex.json');
