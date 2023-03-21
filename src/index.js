@@ -34,20 +34,19 @@ app.post('/login', (req, res)=>{
 })
 
 app.get('/',(req,res)=>{
-    let pokedex = require('./Pokedex.json');
-    res.send(pokedex);
+    res.json('Hola mundo');
 });
 
 //Pokemones de la pokedex
 app.get('/pokedex',(req,res)=>{
     let pokedex = require('./Pokedex.json');
-    res.send(pokedex);
+    res.json(pokedex);
 });
 
 //Usuarios existentes
 app.get('/usuarios',(req,res)=>{
     let usuarios = require('./Usuarios.json');
-    res.send(usuarios);
+    res.json(usuarios);
 });
 
 //Busqueda por numero
@@ -58,7 +57,7 @@ app.post('/numero', (req, res)=>{
 
 for(var i = 0; i<pokedex.length; i++){
     if (num == pokedex[i].Numero){
-        res.send(pokedex[i]);
+        res.json(pokedex[i]);
     }
 }
 })
@@ -71,7 +70,7 @@ app.post('/nombre', (req, res)=>{
 
 for(var i = 0; i<pokedex.length; i++){
     if (nom == pokedex[i].Nombre){
-        res.send(pokedex[i]);
+        res.json(pokedex[i]);
     }
 }
 })
@@ -85,11 +84,11 @@ app.post('/tipo', (req, res)=>{
     var type = req.body.type
 
     if (type == "Agua" ){
-        res.send(pokedexA);
+        res.json(pokedexA);
     }else if(type == "Fuego" ){
-        res.send(pokedexF);
+        res.json(pokedexF);
     }else if(type == "Hierva"){
-        res.send(pokedexH);
+        res.json(pokedexH);
 }
 })
 
